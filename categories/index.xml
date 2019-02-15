@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on hack3rb0y</title>
-    <link>hack3rb0y.github.io/categories/</link>
+    <link>https://hack3rb0y.github.io/categories/</link>
     <description>Recent content in Categories on hack3rb0y</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>hack3rb0y</copyright>
     
-	<atom:link href="hack3rb0y.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hack3rb0y.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
